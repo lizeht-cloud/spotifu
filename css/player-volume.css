@@ -1,0 +1,14 @@
+.player-volume {
+    display: flex;
+    align-items: center;
+}
+
+.player-volume-slider {
+    flex: 1;
+    inline-size: 6rem;
+}
+
+.player-player_volume {
+    display: flex;
+    justify-content: flex-end;
+}
