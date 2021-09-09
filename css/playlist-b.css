@@ -1,11 +1,10 @@
-
 .playlist-b {
     display: flex;
     inline-size: 17.5rem;
     border-radius: .5rem;
     overflow: hidden;
     background: rgba(255,255,255, 10%);
-    transition: .3s background;
+    transition: .3s;
 }
 
 .playlist-b:hover, .playlist-b:focus-within {

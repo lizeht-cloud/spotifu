@@ -4,7 +4,7 @@
     padding: 1rem;
     background: var(--gray40);
     box-sizing: border-box;
-    transition: .3s background;
+    transition: .3s;
 }
 
 .playlist-a:hover, .playlist-a:focus-within{

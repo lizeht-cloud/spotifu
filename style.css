@@ -11,6 +11,8 @@
 @import "./css/layout.css";
 @import "./css/scrollbar.css";
 
+
+
 :root {
     font-size: 10px;
     --primary: #00B050;
